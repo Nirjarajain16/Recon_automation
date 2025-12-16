@@ -1,0 +1,9 @@
+Target: example.com
+IP Address: 23.215.0.136
+
+Open Ports:
+- Port 80 open
+- Port 443 open
+
+WHOIS Info:
+WHOIS not available
